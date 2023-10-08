@@ -1,0 +1,6 @@
+.container {
+  background-color: brown;
+  color: azure;
+  display: flex;
+  justify-content: space-between;
+}

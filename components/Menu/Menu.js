@@ -3,7 +3,7 @@ const Menu = () => {
   return (
     <nav className={styles.container}>
       <div>Moja firma</div>
-      <ul>
+      <ul className={styles.menuItems}>
         <li>
           <a href="#oferta">Oferta</a>
         </li>

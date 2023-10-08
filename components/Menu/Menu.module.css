@@ -3,4 +3,10 @@
   color: azure;
   display: flex;
   justify-content: space-between;
+
+}
+.menuItems {
+    display: flex;
+    list-style: none;
+    gap: 30px;
 }

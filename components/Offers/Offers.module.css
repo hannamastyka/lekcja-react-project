@@ -1,0 +1,20 @@
+.boxesContainer {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+.dot {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    top: -10px;
+    left: -10px;
+    
+}
